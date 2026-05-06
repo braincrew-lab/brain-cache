@@ -80,6 +80,17 @@ harry:
   github_email: harry@brain-crew.com
   pat_secret: GH_PAT_HARRY
 
+kane:
+  name: 윤성재
+  title: AI Research Engineer & Consultant, Brain Crew
+  url: https://github.com/HarryKane11
+  email: kane@brain-crew.com
+  image_url: /img/authors/kane.jpg
+  page: true
+  github_login: HarryKane11
+  github_email: kane@brain-crew.com
+  pat_secret: GH_PAT_KANE
+
 braincrew:
   name: Braincrew
   title: AI Research & Engineering

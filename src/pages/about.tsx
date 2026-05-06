@@ -43,6 +43,13 @@ const TEAM = [
     github: 'https://github.com/syshin0116',
   },
   {
+    name: '윤성재',
+    nameEn: 'Kane',
+    role: 'AI Research Engineer & Consultant',
+    image: '/img/authors/kane.jpg',
+    github: 'https://github.com/HarryKane11',
+  },
+  {
     name: '김유신',
     nameEn: 'Sean',
     role: 'AI Research Engineer',
